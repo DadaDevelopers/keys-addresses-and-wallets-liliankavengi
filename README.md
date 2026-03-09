@@ -22,7 +22,7 @@
 - **Script Type:** P2TR (Pay to Taproot)
 - **Witness Version:** 1
 
----
+
 
 ## 2. Hardened vs Non-Hardened Keys
 
